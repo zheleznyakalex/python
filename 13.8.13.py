@@ -1,0 +1,1 @@
+L = [input() for i in range(5)]
